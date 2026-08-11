@@ -1,5 +1,5 @@
 
 
 
-threat model.md
+# RCP threat model
 
